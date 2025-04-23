@@ -1,5 +1,5 @@
 {
-    "name": "Plus Minus",
+    "name": "microbit_Plus Minus",
     "description": "",
     "dependencies": {
         "core": "*",
